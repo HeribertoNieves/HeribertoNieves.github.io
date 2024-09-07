@@ -1,24 +1,22 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Heriberto A. Nieves-Vazquez",
+    "label": "Graduate AI Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "phone": "",
+    "email": "hnieves6@gatech.edu",
+    "url": "https://heribertonieves.github.io/",
+    "summary": "Forward-thinking doctoral student with a strong background in machine learning (+3 years), medical data analysis (+5 years), and experimental design (5+ years)",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Atlanta",
       "countryCode": "US",
-      "region": "California"
+      "region": "Georgia"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/hnieves/"
       }
     ]
   },
@@ -47,16 +45,42 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "url": "https://www.gatech.edu/",
+      "area": "Robotics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "August 2021",
+      "endDate": "Present",
+      "GPA": "3.83",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Artificial Intelligence", "Robotics", "Machine Learning", "Computer Animation", "Linear Controls", "Innovation Technology: Entrepreneurship"]
     }
+    {
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "url": "https://www.gatech.edu/",
+      "area": "Mechanical Engineering",
+      "studyType": "M.S.",
+      "startDate": "August 2021",
+      "endDate": "Present",
+      "GPA": "3.83",
+      "score": "10",
+      "courses": ["Artificial Intelligence", "Robotics", "Machine Learning", "Computer Animation", "Linear Controls", "Math Methods of Applied Sciences I"]
+    }
+    {
+      "institution": "Florida International University",
+      "location": "Miami, FL",
+      "url": "https://www.fiu.edu/",
+      "area": "Biomedical Engineering",
+      "studyType": "B.S.",
+      "startDate": "August 2017",
+      "endDate": "May 2021",
+      "GPA": "4.0",
+      "score": "10",
+      "courses": ["Senior Design (1st Place)", "Biomaterials", "Cardiovascular Biomechanics", "Hemodynamics", "Medical Instrumentation", "Clinical Rotations", "Biomedical Transport"]
+    }
+    
   ],
   "awards": [
     {
