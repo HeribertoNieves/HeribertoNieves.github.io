@@ -313,8 +313,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Nieves]
-  first_name: [Heriberto]
+  last_name: [Nieves, Nieves-Vazquez]
+  first_name: [Heriberto, Heriberto A, Heriberto A., Heriberto Andres]
 
   style: apa
   locale: en
