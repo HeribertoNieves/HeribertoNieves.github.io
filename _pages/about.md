@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Georgia Tech<br></p>
+    <p>Georgia Tech\</p>
     <p>Atlanta, GA 30318</p>
 
 news: False # includes a list of news items
