@@ -3,7 +3,7 @@
 
   <!-- Force Ph.D. to be prioritized if startDate is the same -->
   {% assign phd_first = education | where: "studyType", "Ph.D." %}
-  {% assign non_phd = education | where: "studyType", "Ph.D.", true %}
+  {% assign non_phd = education | where_exp: "item", "item.studyType != 'Ph.D.'" %}
   {% assign education = phd_first | concat: non_phd %}
 
   {% for content in education %}
