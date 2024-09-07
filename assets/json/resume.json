@@ -52,7 +52,7 @@
       "studyType": "PhD",
       "startDate": "August 2021",
       "endDate": "Present",
-      "GPA": "3.83",
+      "gpa": "3.83",
       "score": "10",
       "courses": ["Artificial Intelligence", "Robotics", "Machine Learning", "Computer Animation", "Linear Controls", "Innovation Technology: Entrepreneurship"]
     },
@@ -64,8 +64,8 @@
       "studyType": "M.S.",
       "startDate": "August 2021",
       "endDate": "Present",
-      "GPA": "3.83",
-      "score": "10",
+      "gpa": "3.83",
+      "score": "9",
       "courses": ["Artificial Intelligence", "Robotics", "Machine Learning", "Computer Animation", "Linear Controls", "Math Methods of Applied Sciences I"]
     },
     {
@@ -76,8 +76,8 @@
       "studyType": "B.S.",
       "startDate": "August 2017",
       "endDate": "May 2021",
-      "GPA": "4.0",
-      "score": "10",
+      "gpa": "4.0",
+      "score": "8",
       "courses": ["Senior Design (1st Place)", "Biomaterials", "Cardiovascular Biomechanics", "Hemodynamics", "Medical Instrumentation", "Clinical Rotations", "Biomedical Transport"]
     }
     
