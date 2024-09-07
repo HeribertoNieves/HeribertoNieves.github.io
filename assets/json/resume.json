@@ -55,7 +55,7 @@
       "GPA": "3.83",
       "score": "10",
       "courses": ["Artificial Intelligence", "Robotics", "Machine Learning", "Computer Animation", "Linear Controls", "Innovation Technology: Entrepreneurship"]
-    }
+    },
     {
       "institution": "Georgia Institute of Technology",
       "location": "Atlanta, GA",
@@ -67,7 +67,7 @@
       "GPA": "3.83",
       "score": "10",
       "courses": ["Artificial Intelligence", "Robotics", "Machine Learning", "Computer Animation", "Linear Controls", "Math Methods of Applied Sciences I"]
-    }
+    },
     {
       "institution": "Florida International University",
       "location": "Miami, FL",
