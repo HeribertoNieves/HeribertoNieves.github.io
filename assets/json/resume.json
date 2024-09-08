@@ -93,46 +93,18 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Intro to Docker",
+      "date": "2024",
+      "issuer": "Google Cloud Skills Boost",
+      "url": "https://www.coursera.org/projects/googlecloud-introduction-to-docker-2zs0k",
+      "icon": "fa-brands fa-docker"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "6.00.1x: Introduction to Computer Science and Programming Using Python",
+      "date": "2020",
+      "issuer": "MITx",
+      "url": "https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python",
+      "icon": "fa-solid fa-laptop-code"
     }
   ],
   "publications": [
@@ -237,7 +209,7 @@
   "references": [
     {
       "name": "Dr. Jun Ueda",
-      "icon": "fa-solid fa-laptop",
+      "icon": "",
       "url": "jun.ueda@me.gatech.edu"
     },
   ],
