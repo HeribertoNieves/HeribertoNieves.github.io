@@ -134,28 +134,28 @@
       "publisher": "2023 IEEE/SICE International Symposium on System Integration (SII)",
       "releaseDate": "2023",
       "url": "https://ieeexplore.ieee.org/document/10039442",
-      "summary":
+      "summary":""
     },
     {
       "name": "MRI Compatible Robotic Dosimeter System for Safety Assessment of Medical Implants",
       "publisher": "2024 IEEE/SICE International Symposium on System Integration (SII)",
       "releaseDate": "2024",
       "url": "https://ieeexplore.ieee.org/document/10417364",
-      "summary":
+      "summary":""
     },
     {
       "name": "Closed-Loop Estimation of Individualized Inter-Stimulus Interval Window for Transient Neuromodulation via Paired Mechanical and Brain Stimulation",
       "publisher": "IEEE Transactions on Medical Robotics and Bionics",
       "releaseDate": "2023",
       "url": "https://ieeexplore.ieee.org/document/10020183",
-      "summary":
+      "summary":""
     },
     {
       "name": "Prediction of Single Trial Somatosensory Evoked Potentials From Mechanical Stimulation Intensity",
       "publisher": "2022 International Conference on Rehabilitation Robotics (ICORR)",
       "releaseDate": "2022",
       "url": "https://ieeexplore.ieee.org/document/9896482",
-      "summary":
+      "summary":""
     }
   ],
   "skills": [
@@ -221,7 +221,7 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Neural Networks",
-        "Convolutional Neural Networks"
+        "Convolutional Neural Networks",
         "Federated Learning",
         "Physics-Informed Neural Networks",
         "Transfer Learning"
@@ -276,7 +276,7 @@
   "references": [
     {
       "name": "Dr. Jun Ueda",
-      "icon": "",
+      "icon": ""
     },
   ],
   "projects": [
