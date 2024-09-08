@@ -112,7 +112,6 @@
       "name": "Effects of Driver Placement and Phase on Multi-actuator Magnetic Resonance Elastography via Finite Element Analysis",
       "publisher": "2023 American Control Conference (ACC)",
       "releaseDate": "2023",
-      "author":"Nieves-Vazquez, Heriberto Andres and Ozkaya, Efe and Meinhold, Waiman and Ueda, Jun",
       "url": "https://ieeexplore.ieee.org/document/10155915",
       "summary": ""
     },
@@ -120,7 +119,6 @@
       "name": "Sensor-Embedded Tissue Phantom For Magnetic Resonance Elastography Mechanical Failure Testing",
       "publisher": "Journal of Medical Devices",
       "releaseDate": "2024",
-      "author":"Hong, Charles P and Vinodkumar, Tarun and Nieves-Vazquez, Heriberto A and Ueda, Jun",
       "url": "https://heattransfer.asmedigitalcollection.asme.org/medicaldevices/article-abstract/doi/10.1115/1.4066226/1202997/Sensor-Embedded-Tissue-Phantom-For-Magnetic?redirectedFrom=fulltext",
       "summary": ""
     },
@@ -128,7 +126,6 @@
       "name": "Deep Learning-Enabled Automated Quality Control for Liver MR Elastography: Initial Results",
       "publisher": "Journal of Magnetic Resonance Imaging",
       "releaseDate": "2024",
-      "author":"Nieves-Vazquez, Heriberto A and Ozkaya, Efe and Meinhold, Waiman and Geahchan, Amine and Bane, Octavia and Ueda, Jun and Taouli, Bachir",
       "url": "https://onlinelibrary.wiley.com/doi/10.1002/jmri.29490",
       "summary": ""
     },
@@ -136,7 +133,6 @@
       "name": "A Virtual Reality Guidance System for a Precise MRI Injection Robot",
       "publisher": "2023 IEEE/SICE International Symposium on System Integration (SII)",
       "releaseDate": "2023",
-      "author":"Meinhold, Waiman and Nieves-Vazquez, Heriberto A and Martinez, Daniel E and Lee, Joseph and Li, Siyu and Ueda, Jun and Hu, Ai-Ping",
       "url": "https://ieeexplore.ieee.org/document/10039442",
       "summary":
     },
@@ -144,7 +140,6 @@
       "name": "MRI Compatible Robotic Dosimeter System for Safety Assessment of Medical Implants",
       "publisher": "2024 IEEE/SICE International Symposium on System Integration (SII)",
       "releaseDate": "2024",
-      "author":"Martinez, Daniel E and Nieves-Vazquez, Heriberto A and Yaras, Yusuf S and Khotimsky, Alexey and Skowronski, Ben and Bradley, Lee and Oshinski, John and Degertekin, F Levent and Ueda, Jun",
       "url": "https://ieeexplore.ieee.org/document/10417364",
       "summary":
     },
@@ -152,7 +147,6 @@
       "name": "Closed-Loop Estimation of Individualized Inter-Stimulus Interval Window for Transient Neuromodulation via Paired Mechanical and Brain Stimulation",
       "publisher": "IEEE Transactions on Medical Robotics and Bionics",
       "releaseDate": "2023",
-      "author":"ieves-Vazquez, Heriberto A and Kim, Euisun and Ueda, Jun",
       "url": "https://ieeexplore.ieee.org/document/10020183",
       "summary":
     },
@@ -160,7 +154,6 @@
       "name": "Prediction of Single Trial Somatosensory Evoked Potentials From Mechanical Stimulation Intensity",
       "publisher": "2022 International Conference on Rehabilitation Robotics (ICORR)",
       "releaseDate": "2022",
-      "author":"Meinhold, Waiman and Nieves-Vazquez, Heriberto A and Ueda, Jun",
       "url": "https://ieeexplore.ieee.org/document/9896482",
       "summary":
     }
@@ -194,15 +187,89 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Programming Languages and Software Tools",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C++",
+        "MATLAB",
+        "ROS",
+        "Git",
+        "Docker",
+        "Linux",
+        "Jira"
+      ]
+    },
+    {
+      "name": "Machine Learning and Data Science Tools",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "PyTorch",
+        "NVIDIA Modulus",
+        "Scikit-learn",
+        "Numpy",
+        "Pandas",
+        "Jupyter",
+        "Seaborn",
+        "Plotly",
+        "Matplotlib",
+        "Agile Development"
+      ]
+    },
+    {
+      "name": "Deep Learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Neural Networks",
+        "Convolutional Neural Networks"
+        "Federated Learning",
+        "Physics-Informed Neural Networks",
+        "Transfer Learning"
+      ]
+    },
+    {
+      "name": "Medical Knowledge",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Magnetic Resonance Elastography",
+        "MRI",
+        "Image Segmentation",
+        "Image Reconstruction",
+        "Tissue Dynamics",
+        "Human Physiology",
+        "Electromyography (EMG)",
+        "Biosignal Processing"
+      ]
+    },
+    {
+      "name": "Research and Development",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Finite Element Analysis",
+        "Statistical Analysis",
+        "Experimental Design",
+        "Hypothesis Testing",
+        "Prototyping",
+      ]
+    },
+    {
+      "name": "Robotics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "ROS",
+        "Linear and Digital Controls",
+        "Robot Kinematics and Dynamics",
+        "Closed Loop Automation"
+      ]
+    },
+    {
+      "name": "Communication",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Oral Presentations",
+        "Technical Writing",
+        "Grant Writing",
+        "Clinician Collaboration",
       ]
     }
   ],
